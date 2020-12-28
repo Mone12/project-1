@@ -1,6 +1,7 @@
 # Netflix & Chill 
 Very first project I created within a group during boot camp. We were all, for the most part fairly, new at coding 
-so it could use some more work. However, it's completely functional so feel free to check it out in the link above.
+so it could use some more work. However, it's completely functional so feel free to check it out in the project
+description below.
 
 ## Team Members
 * Ben
