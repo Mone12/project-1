@@ -1,12 +1,12 @@
-# What To Do? [working title]
+# Netflix & Chill
 
-# Team Members
+## Team Members
 * Ben
 * Cassondra
 * Mone
 * Rodson
 
-# Project description
+## Project description
 Web app that will allow user to get recommendations for a netflix show/movie and a type of drink so they can "netflix and chill."
 
 User will be able to pick a type of movie/show and get suggestions
@@ -15,7 +15,7 @@ User will be able to get a drink suggestion as well. If they are under 21 or don
 
 If they are 21 and want to drink, they will get an alcoholic drink suggestion based on a type of alcohol/ingredient.
 
-# APIs
+## APIs
 * unogs
 * the cocktail api
 
