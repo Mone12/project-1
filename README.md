@@ -1,4 +1,4 @@
-# Netflix & Chill - Visit Here: https://mone12.github.io/project-1/
+# Netflix & Chill 
 Very first project I created within a group during boot camp. We were all, for the most part fairly, new at coding 
 so it could use some more work. However, it's completely functional so feel free to check it out in the link above.
 
@@ -9,6 +9,8 @@ so it could use some more work. However, it's completely functional so feel free
 * Rodson
 
 ## Project description
+Visit Here: https://mone12.github.io/project-1/
+ 
 Web app that will allow user to get recommendations for a netflix show/movie and a type of drink so they can "netflix and chill."
 
 User will be able to pick a type of movie/show and get suggestions
