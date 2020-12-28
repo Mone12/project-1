@@ -1,4 +1,6 @@
-# Netflix & Chill
+# Netflix & Chill - Visit Here: https://mone12.github.io/project-1/
+Very first project I created within a group during boot camp. We were all, for the most part fairly, new at coding 
+so it could use some more work. However, it's completely functional so feel free to check it out in the link above.
 
 ## Team Members
 * Ben
